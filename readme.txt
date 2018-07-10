@@ -6,12 +6,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 
-11
-222
-111
-<<<<<<< HEAD
 master
-=======
-dev
->>>>>>> dev
-
